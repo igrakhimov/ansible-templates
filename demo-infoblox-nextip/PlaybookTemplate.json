@@ -1,0 +1,35 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "00000000-0000-0000-0503-000000000000",
+    "TemplateName": "Demo Infoblox NextIp",
+    "Description": "Obtain one or more next available IP addresses from a given network from within Infoblox",
+    "TemplateType": 2,
+    "TemplateAuthor": "Rapid Team",
+    "ReleaseDateVersion": "2020/02/02",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-infoblox-nextip",
+    "IsDevTestEnvironmentsOnly": false,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "V2",
+    "TemplateOwner": "tester",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "05/22/2020 02:45:44"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}

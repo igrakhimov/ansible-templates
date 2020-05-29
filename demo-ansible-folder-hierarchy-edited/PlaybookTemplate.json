@@ -1,0 +1,35 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "00000000-0000-0000-0500-000000000000",
+    "TemplateName": "Demo Ansible folder hierarchy edited",
+    "Description": "A Playbook containing the default files and structure.",
+    "TemplateType": 2,
+    "TemplateAuthor": "Rapid Team",
+    "ReleaseDateVersion": "2019/12/12",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-ansible-folder-hierarchy-edited",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 8,
+    "ExecuteCount": 2,
+    "IsPromoted": false,
+    "TemplateVersion": "4",
+    "TemplateOwner": "Marco",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "05/25/2020 01:50:25"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}

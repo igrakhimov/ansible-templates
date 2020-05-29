@@ -1,0 +1,36 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "00000000-0000-0000-0501-000000000000",
+    "TemplateName": "Demo Simple Vars Playbook",
+    "Description": "A Playbook containing some Vars and Settables.",
+    "TemplateType": 2,
+    "ElementTypes": 2,
+    "TemplateAuthor": "Rapid Team",
+    "ReleaseDateVersion": "2019/12/12",
+    "TemplateFolderPath": "Will be set at run time",
+    "IsDevTestEnvironmentsOnly": false,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": true,
+    "TemplateVersion": "V1",
+    "TemplateOwner": "tester",
+    "IsFavourite": true,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "05/19/2020 11:15:47"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}

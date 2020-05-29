@@ -1,0 +1,36 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "00000000-0000-0000-0510-000000000000",
+    "TemplateName": "Demo ServiceNow Find Change Request",
+    "Description": "Finds a ServiceNow Change Request Record given a change request number and returns the record as \u0027change_request\u0027.",
+    "TemplateType": 2,
+    "ElementTypes": 2,
+    "TemplateAuthor": "Rapid Team",
+    "ReleaseDateVersion": "2020/02/02",
+    "TemplateFolderPath": "Will be set at run time",
+    "IsDevTestEnvironmentsOnly": false,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": true,
+    "TemplateVersion": "V1",
+    "TemplateOwner": "tester",
+    "IsFavourite": true,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "05/19/2020 11:15:47"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
