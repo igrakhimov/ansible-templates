@@ -5,7 +5,7 @@
     "Description": "Demo Create",
     "TemplateType": 2,
     "TemplateAuthor": "tester",
-    "ReleaseDateVersion": "05/17/2020 03:34:36",
+    "ReleaseDateVersion": "25/05/2020 01:50:25",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-create",
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 0,
@@ -15,7 +15,7 @@
     "TemplateOwner": "tester",
     "IsFavourite": true,
     "TemplateModifiedBy": "tester",
-    "TemplateModifiedDate": "05/22/2020 07:51:27"
+    "TemplateModifiedDate": "25/05/2020 01:50:25"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
