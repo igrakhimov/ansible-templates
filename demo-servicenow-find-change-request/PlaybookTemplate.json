@@ -4,7 +4,6 @@
     "TemplateName": "Demo ServiceNow Find Change Request",
     "Description": "Finds a ServiceNow Change Request Record given a change request number and returns the record as \u0027change_request\u0027.",
     "TemplateType": 2,
-    "ElementTypes": 2,
     "TemplateAuthor": "Rapid Team",
     "ReleaseDateVersion": "06/03/2020 01:02:18",
     "TemplateFolderPath": "Will be set at run time",
@@ -14,7 +13,7 @@
     "IsPromoted": true,
     "TemplateVersion": "V1",
     "TemplateOwner": "tester",
-    "IsFavourite": true,
+    "IsFavourite": false,
     "TemplateModifiedBy": "tester",
     "TemplateModifiedDate": "06/03/2020 01:02:18"
   },
