@@ -1,21 +1,21 @@
 {
   "TemplateDescription": {
     "TemplateId": "00000000-0000-0000-0506-000000000000",
-    "TemplateName": "Demo IOS Command Edited",
+    "TemplateName": "Demo IOS Command",
     "Description": "Executes a given command against IOS devices in the inventory and stores the output in \u0027command_result\u0027.",
     "TemplateType": 2,
     "TemplateAuthor": "Rapid Team",
     "ReleaseDateVersion": "06/03/2020 01:02:18",
-    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-ios-command",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-ios-command-edited",
     "IsDevTestEnvironmentsOnly": false,
-    "UsageCount": 0,
+    "UsageCount": 2,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "V1",
     "TemplateOwner": "tester",
     "IsFavourite": false,
-    "TemplateModifiedBy": "tester",
-    "TemplateModifiedDate": "06/03/2020 01:02:18"
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "06/04/2020 08:31:49"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
