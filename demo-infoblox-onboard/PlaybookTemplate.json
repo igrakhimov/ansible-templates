@@ -13,7 +13,7 @@
     "IsPromoted": false,
     "TemplateVersion": "V1",
     "TemplateOwner": "tester",
-    "IsFavourite": true,
+    "IsFavourite": false,
     "TemplateModifiedBy": "tester",
     "TemplateModifiedDate": "06/03/2020 01:02:18"
   },
