@@ -1,7 +1,7 @@
 {
   "TemplateDescription": {
     "TemplateId": "00000000-0000-0000-0506-000000000000",
-    "TemplateName": "Demo IOS Command A",
+    "TemplateName": "Demo IOS Command A1",
     "Description": "Executes a given command against IOS devices in the inventory and stores the output in \u0027command_result\u0027.",
     "TemplateType": 2,
     "TemplateAuthor": "Rapid Team",
@@ -15,7 +15,7 @@
     "TemplateOwner": "abitha",
     "IsFavourite": true,
     "TemplateModifiedBy": "abdul",
-    "TemplateModifiedDate": "06/04/2020 23:59:39"
+    "TemplateModifiedDate": "06/05/2020 00:45:38"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
