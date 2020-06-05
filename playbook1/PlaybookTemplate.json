@@ -1,0 +1,35 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "162d74cd-abc3-442a-a4a3-42f12e56fc13",
+    "TemplateName": "playbook1",
+    "Description": "1",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/05/2020 06:28:27",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/playbook1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/05/2020 06:28:27"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
