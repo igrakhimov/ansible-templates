@@ -14,7 +14,7 @@
       prompt: 'Enter password'
       default: 'cisco'
       private: true
-# AND THIS IF USING IN AWX or TOWER
+# AND THIS IF USING IN AWX or TOWER nnjh
 
   vars:
       ansible_user: '{{ username }}'        # REMOVE IF USING AWX or TOWER

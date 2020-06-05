@@ -10,7 +10,7 @@
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 0,
     "ExecuteCount": 0,
-    "IsPromoted": false,
+    "IsPromoted": true,
     "TemplateVersion": "1",
     "TemplateOwner": "rapiduser",
     "IsFavourite": false,
