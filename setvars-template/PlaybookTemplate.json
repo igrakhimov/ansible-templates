@@ -1,0 +1,35 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "0233a6c8-d394-43b5-a2db-7d0239562249",
+    "TemplateName": "setvars template",
+    "Description": "sdfdsf",
+    "TemplateType": 2,
+    "TemplateAuthor": "abdul",
+    "ReleaseDateVersion": "06/08/2020 10:23:36",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/setvars-template",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "abdul",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abdul",
+    "TemplateModifiedDate": "06/08/2020 10:23:36"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}

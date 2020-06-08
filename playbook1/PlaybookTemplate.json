@@ -10,10 +10,10 @@
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 1,
     "ExecuteCount": 1,
-    "IsPromoted": true,
+    "IsPromoted": false,
     "TemplateVersion": "asdqeqweqweqe",
     "TemplateOwner": "Branko",
-    "IsFavourite": false,
+    "IsFavourite": true,
     "TemplateModifiedBy": "abdul",
     "TemplateModifiedDate": "06/05/2020 06:34:24"
   },
