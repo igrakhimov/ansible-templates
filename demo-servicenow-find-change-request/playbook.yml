@@ -44,5 +44,6 @@
     set_stats:
          data:
             change_request: "{{ chg.record }}"
+            change_status: "{{ chg.record[0].status }}"
     when: change_request_number | length > 0
 
