@@ -1,21 +1,21 @@
 {
   "TemplateDescription": {
     "TemplateId": "00000000-0000-0000-0510-000000000000",
-    "TemplateName": "Demo ServiceNow Find Change Request",
+    "TemplateName": "ServiceNow Find Change Request",
     "Description": "Finds a ServiceNow Change Request Record given a change request number and returns the record as \u0027change_request\u0027.",
     "TemplateType": 2,
     "TemplateAuthor": "Rapid Team",
     "ReleaseDateVersion": "06/03/2020 01:02:18",
-    "TemplateFolderPath": "Will be set at run time",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-servicenow-find-change-request/",
     "IsDevTestEnvironmentsOnly": false,
-    "UsageCount": 0,
-    "ExecuteCount": 0,
+    "UsageCount": 3,
+    "ExecuteCount": 3,
     "IsPromoted": true,
     "TemplateVersion": "V1",
     "TemplateOwner": "tester",
     "IsFavourite": false,
-    "TemplateModifiedBy": "tester",
-    "TemplateModifiedDate": "06/03/2020 01:02:18"
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "06/14/2020 23:32:03"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
