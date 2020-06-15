@@ -1,0 +1,35 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "a7f1f867-2f63-4060-9178-5788e99e4650",
+    "TemplateName": "Cisco IOS Command",
+    "Description": "execute a command against an IOS device. ",
+    "TemplateType": 2,
+    "TemplateAuthor": "marcos",
+    "ReleaseDateVersion": "06/15/2020 03:16:20",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/cisco-ios-command",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "v1.0",
+    "TemplateOwner": "marcos",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "06/15/2020 03:16:20"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
