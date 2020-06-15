@@ -1,0 +1,35 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "7dd74b27-30d1-4296-8a43-9072cda4b5a1",
+    "TemplateName": "Cisco IOS Configuration",
+    "Description": "Prompts for Cisco IOS device credentials. The user can provide both the \u0027configuration section\u0027 and \u0027configuration lines\u0027 required.",
+    "TemplateType": 2,
+    "TemplateAuthor": "marcos",
+    "ReleaseDateVersion": "06/15/2020 01:29:02",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/cisco-ios-configuration",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1.0",
+    "TemplateOwner": "marcos",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "06/15/2020 01:29:02"
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
