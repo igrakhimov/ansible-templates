@@ -1,0 +1,32 @@
+- name: Execute Command against IOS device
+  hosts: ios
+  gather_facts: no
+  connection: network_cli
+ 
+  vars_prompt:
+    - name: 'ansible_user'
+      prompt: 'Enter username'
+      default: 'cisco'
+      private: false
+ 
+    - name: 'ansible_password'
+      prompt: 'Enter password'
+      default: 'cisco'
+      private: true
+      unsafe: true
+ 
+  vars:
+      command: 'show ip int brief' #settable
+ 
+  tasks:
+ 
+    - name: run command 
+      ios_command:
+        commands:
+          - "{{ command }}" 
+      register: command_output
+ 
+    - name: set command stat
+      set_stats:
+            data:
+               command_result: "{{ command_output.stdout_lines }}"  
