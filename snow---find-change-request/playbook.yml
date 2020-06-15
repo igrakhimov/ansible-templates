@@ -1,0 +1,49 @@
+- name: Find Change Request 
+  hosts: localhost  
+  gather_facts: false 
+  #module_defaults:
+  #  ios_facts:
+  #    gather_subset: all  
+  #    gather_network_resources: all 
+  connection: network_cli
+
+  vars_prompt:
+
+    - name: 'sn_username'
+      prompt: 'Enter ServiceNow username'
+      default: 'admin'
+      private: false
+      unsafe: true
+
+    - name: 'sn_password'
+      prompt: 'Enter ServiceNow password'
+      default: 'rybkin-zYrje0-wapziv'
+      private: true
+      unsafe: true
+
+  vars:
+     sn_instance: dev75689  #settable
+     change_request_number: "CHG0040007" #settable
+  
+
+  tasks:
+
+  - name: Find open standard changes with my template
+    snow_record_find:
+      table: change_request
+      username: "{{ sn_username }}"
+      password: "{{ sn_password }}"
+      instance: "{{ sn_instance }}"
+      query:
+           number: "{{ change_request_number  }}" 
+    delegate_to: localhost
+    register: chg 
+    when: change_request_number | length > 0
+
+  - name: return change request  
+    set_stats:
+         data:
+            change_request: "{{ chg.record }}"
+            change_status: "{{ chg.record[0].status }}"
+    when: change_request_number | length > 0
+
