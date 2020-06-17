@@ -1,7 +1,7 @@
 {
   "TemplateDescription": {
     "TemplateId": "00000000-0000-0000-0504-000000000000",
-    "TemplateName": "Demp Infoblox NextNetwork",
+    "TemplateName": "Demo Infoblox NextNetwork",
     "Description": "Obtain one or more next available subnets from a given supernet from within Infoblox.",
     "TemplateType": 2,
     "ElementTypes": 2,
