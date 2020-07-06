@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "06/05/2020 05:28:30",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/km-test-template",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 0,
+    "UsageCount": 1,
     "ExecuteCount": 0,
     "IsPromoted": true,
     "TemplateVersion": "1",
