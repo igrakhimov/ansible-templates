@@ -14,8 +14,13 @@
     "TemplateVersion": "1.0",
     "TemplateOwner": "marcos",
     "IsFavourite": true,
+<<<<<<< HEAD:infoblox-next-ip/PlaybookTemplate.json
     "TemplateModifiedBy": "igor",
     "TemplateModifiedDate": "07/06/2020 06:41:17",
+=======
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "06/15/2020 01:32:42",
+>>>>>>> master:infoblox---next-ip/PlaybookTemplate.json
     "TemplateTypeColor": null
   },
   "Element": {
