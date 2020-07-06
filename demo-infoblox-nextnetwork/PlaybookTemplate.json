@@ -16,7 +16,8 @@
     "TemplateOwner": "tester",
     "IsFavourite": false,
     "TemplateModifiedBy": "tester",
-    "TemplateModifiedDate": "06/03/2020 01:02:18"
+    "TemplateModifiedDate": "06/03/2020 01:02:18",
+    "TemplateTypeColor": null
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
