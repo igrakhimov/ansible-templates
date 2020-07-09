@@ -1,0 +1,36 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "658dad36-be05-458c-9d33-c4417ce54e29",
+    "TemplateName": "juan",
+    "Description": "11",
+    "TemplateType": 2,
+    "TemplateAuthor": "juan",
+    "ReleaseDateVersion": "07/09/2020 06:03:54",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/juan",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "juan",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "juan",
+    "TemplateModifiedDate": "07/09/2020 06:03:54",
+    "TemplateTypeColor": null
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
