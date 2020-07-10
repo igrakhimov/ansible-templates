@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "07/10/2020 08:01:48",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/check-code-dfly",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 0,
+    "UsageCount": 1,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "1",
