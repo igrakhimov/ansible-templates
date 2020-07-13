@@ -10,7 +10,7 @@
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 2,
     "ExecuteCount": 0,
-    "IsPromoted": true,
+    "IsPromoted": false,
     "TemplateVersion": "1.0",
     "TemplateOwner": "marcos",
     "IsFavourite": true,
