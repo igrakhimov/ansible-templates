@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "06/15/2020 01:29:02",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/cisco-ios-configuration",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 1,
+    "UsageCount": 2,
     "ExecuteCount": 0,
     "IsPromoted": true,
     "TemplateVersion": "1.0",
