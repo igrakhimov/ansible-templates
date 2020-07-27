@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "06/03/2020 01:02:18",
     "TemplateFolderPath": "Will be set at run time",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 1,
+    "UsageCount": 2,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "V1",
@@ -16,12 +16,15 @@
     "IsFavourite": true,
     "TemplateModifiedBy": "tester",
     "TemplateModifiedDate": "06/03/2020 01:02:18",
-    "TemplateTypeColor": null
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
     "ElementType": 2,
     "Name": null,
+    "ElementIconPath": null,
+    "Description": null,
     "ElementPosition": null,
     "AnsibleElement": {
       "SuccessOnPartialFailure": true,
