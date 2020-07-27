@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "06/15/2020 03:02:51",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/check-rapid-install",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 9,
+    "UsageCount": 10,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "1.0",
@@ -16,12 +16,15 @@
     "IsFavourite": true,
     "TemplateModifiedBy": "marcos",
     "TemplateModifiedDate": "06/15/2020 03:02:51",
-    "TemplateTypeColor": null
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
     "ElementType": 2,
     "Name": null,
+    "ElementIconPath": null,
+    "Description": null,
     "ElementPosition": null,
     "AnsibleElement": {
       "SuccessOnPartialFailure": false,
