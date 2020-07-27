@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "06/15/2020 03:02:51",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/check-rapid-install",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 10,
+    "UsageCount": 11,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "1.0",
