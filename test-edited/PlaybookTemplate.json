@@ -1,12 +1,12 @@
 {
   "TemplateDescription": {
     "TemplateId": "2f0ef97e-ed41-4fdf-adcc-892f8f15b35e",
-    "TemplateName": "test",
+    "TemplateName": "test edited",
     "Description": "bla",
     "TemplateType": 2,
     "TemplateAuthor": "igor",
     "ReleaseDateVersion": "07/27/2020 22:34:55",
-    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/test",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/test-edited",
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 0,
     "ExecuteCount": 0,
@@ -15,9 +15,9 @@
     "TemplateOwner": "igor",
     "IsFavourite": false,
     "TemplateModifiedBy": "igor",
-    "TemplateModifiedDate": "07/27/2020 22:34:55",
+    "TemplateModifiedDate": "07/27/2020 22:35:34",
     "TemplateTypeColor": null,
-    "TemplateIconPath": null
+    "TemplateIconPath": ""
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
