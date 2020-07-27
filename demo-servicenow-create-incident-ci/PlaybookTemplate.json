@@ -4,19 +4,19 @@
     "TemplateName": "Demo ServiceNow Create Incident CI",
     "Description": "Creates a ServiceNow incident with the option to associate a CI.",
     "TemplateType": 2,
+    "ElementTypes": 2,
     "TemplateAuthor": "Rapid Team",
     "ReleaseDateVersion": "06/03/2020 01:02:18",
     "TemplateFolderPath": "Will be set at run time",
     "IsDevTestEnvironmentsOnly": false,
     "UsageCount": 0,
     "ExecuteCount": 0,
-    "IsPromoted": false,
+    "IsPromoted": true,
     "TemplateVersion": "V1",
     "TemplateOwner": "teser",
-    "IsFavourite": false,
+    "IsFavourite": true,
     "TemplateModifiedBy": "tester",
-    "TemplateModifiedDate": "06/03/2020 01:02:18",
-    "TemplateTypeColor": null
+    "TemplateModifiedDate": "06/03/2020 01:02:18"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",

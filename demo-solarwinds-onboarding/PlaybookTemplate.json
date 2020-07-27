@@ -8,15 +8,14 @@
     "ReleaseDateVersion": "06/03/2020 01:02:18",
     "TemplateFolderPath": "Will be set at run time",
     "IsDevTestEnvironmentsOnly": false,
-    "UsageCount": 1,
+    "UsageCount": 0,
     "ExecuteCount": 0,
     "IsPromoted": true,
     "TemplateVersion": "V1",
     "TemplateOwner": "tester",
-    "IsFavourite": false,
+    "IsFavourite": true,
     "TemplateModifiedBy": "tester",
-    "TemplateModifiedDate": "06/03/2020 01:02:18",
-    "TemplateTypeColor": null
+    "TemplateModifiedDate": "06/03/2020 01:02:18"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
