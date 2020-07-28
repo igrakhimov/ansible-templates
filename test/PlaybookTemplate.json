@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "07/28/2020 02:55:13",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/test",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 0,
+    "UsageCount": 1,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "1",
