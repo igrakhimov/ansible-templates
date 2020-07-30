@@ -2,11 +2,11 @@
   "TemplateDescription": {
     "TemplateId": "000b36d1-ff05-483f-b7f7-0419527bb909",
     "TemplateName": "test",
-    "Description": "test",
+    "Description": "test smoke test",
     "TemplateType": 2,
     "TemplateAuthor": "kidmun",
     "ReleaseDateVersion": "07/28/2020 02:55:13",
-    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/test",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/test/",
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 1,
     "ExecuteCount": 0,
@@ -14,10 +14,10 @@
     "TemplateVersion": "1",
     "TemplateOwner": "kidmun",
     "IsFavourite": false,
-    "TemplateModifiedBy": "kidmun",
-    "TemplateModifiedDate": "07/28/2020 02:55:13",
+    "TemplateModifiedBy": "igor",
+    "TemplateModifiedDate": "07/30/2020 06:55:20",
     "TemplateTypeColor": null,
-    "TemplateIconPath": null
+    "TemplateIconPath": ""
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
