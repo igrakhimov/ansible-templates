@@ -1,0 +1,89 @@
+---
+- name: Playbook that makes use of discovery meta data
+  hosts: localhost
+  gather_facts: no
+  connection: local
+
+  #==================================================================================
+  # #settables keyword results in:
+  #==================================================================================
+  # 1. exposes the variable to UI allowing the user to override the value at run time
+  # 2. imports the value from the global variable pool by using jinja syntax i.e.. "{{ global_var }}"
+  # 3. all settable variables are passed into the playbook as extra_vars and the usual rules apply
+
+  vars:
+   
+    d_success: "{{discovery_asset_report.is_success}}" #settables
+    d_failed: "{{discovery_asset_report.is_failed}}" #settables
+    d_shosts: "{{discovery_asset_report.successful_hosts}}" #settables
+    d_fhosts: "{{discovery_asset_report.failed_hosts}}" #settables
+    d_shoststotal: "{{discovery_asset_report.num_successful_hosts}}" #settables
+    d_fhoststotal: "{{discovery_asset_report.num_failed_hosts}}" #settables
+    d_uniqueips: "{{discovery_asset_report.num_unique_ips}}" #settables
+    d_pinged: "{{discovery_asset_report.num_pinged}}" #settables
+    #logic.is_true
+    #logic.is_false
+    a_name: "{{workspace.name}}" #settables
+    b_name: "{{workspace.telstra_project_id}}" #settables
+    c_name: "{{workspace.customer_project_record_id}}" #settables
+    d_name: "{{workspace.description}}" #settables
+
+  tasks:
+
+  # since the new_string variable has been assigned from var_string 
+  # it can now be accessed directly
+    
+  - name: Display the output of the global variable 'd_success'
+    debug:
+      msg: "{{ d_success }}"
+
+  - name: Display the output of the global variable 'd_failed'
+    debug:
+      msg: "{{ d_failed }}"
+
+  - name: Display the output of the global variable list 'd_shosts'
+    debug:
+      msg: "{{ d_shosts }}"
+
+  # elements within the list are accessible
+  - name: Display the output of the global variable list 'd_fhosts'
+    debug:
+      msg: "{{ d_fhosts }}"
+
+  - name: Display the output of the global variable dictionary 'd_shoststotal'
+    debug:
+      msg: "{{ d_shoststotal }}"
+
+  # keys within the dictinoary are accessible
+  - name: Display the output of the global variable dictionary 'd_fhoststotal'
+    debug:
+      msg: "{{ d_fhoststotal }}"
+
+  # keys within the dictinoary are accessible
+  - name: Display the output of the global variable dictionary 'd_uniqueips'
+    debug:
+      msg: "{{ d_uniqueips }}"
+
+  # keys within the dictinoary are accessible
+  - name: Display the output of the global variable dictionary 'd_pinged'
+    debug:
+      msg: "{{ d_pinged }}"
+
+  # keys within the dictinoary are accessible
+  - name: Display the output of the global variable dictionary 'a_name'
+    debug:
+      msg: "{{ a_name }}"
+
+  - name: Display the output of the global variable dictionary 'b_name'
+    debug:
+      msg: "{{ b_name }}"
+
+  - name: Display the output of the global variable dictionary 'c_name'
+    debug:
+      msg: "{{ c_name }}"
+
+  - name: Display the output of the global variable dictionary 'd_name'
+    debug:
+      msg: "{{ d_name }}"
+
+...

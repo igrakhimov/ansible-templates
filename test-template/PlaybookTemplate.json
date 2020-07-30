@@ -1,0 +1,39 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "fbc3f74c-fa38-4a16-8f24-1a0747fdcaff",
+    "TemplateName": "test template",
+    "Description": "This template is created for testing purpose",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "07/30/2020 07:22:55",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/test-template",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "07/30/2020 07:22:55",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementIconPath": null,
+    "Description": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
