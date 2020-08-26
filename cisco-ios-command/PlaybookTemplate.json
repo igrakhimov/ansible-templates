@@ -8,7 +8,7 @@
     "ReleaseDateVersion": "07/31/2020 00:32:46",
     "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/cisco-ios-command",
     "IsDevTestEnvironmentsOnly": true,
-    "UsageCount": 1,
+    "UsageCount": 2,
     "ExecuteCount": 0,
     "IsPromoted": false,
     "TemplateVersion": "1",
@@ -31,9 +31,11 @@
       "EnableVerboseLogging": false,
       "HostFailBehaviour": 0,
       "RemoveSuccessfulHosts": false,
-      "TemplateId": null
+      "TemplateId": null,
+      "Satellite": 0
     },
     "DiscoveryElement": null,
-    "DecisionElement": null
+    "DecisionElement": null,
+    "ScriptElement": null
   }
 }
