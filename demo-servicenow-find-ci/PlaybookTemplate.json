@@ -1,0 +1,39 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "00000000-0000-0000-0511-000000000000",
+    "TemplateName": "Demo ServiceNow Find CI",
+    "Description": "Finds a ServiceNow Configuration Item given a CI name  and returns the record as \u0027config_item\u0027.",
+    "TemplateType": 2,
+    "TemplateAuthor": "Rapid Team",
+    "ReleaseDateVersion": "06/03/2020 01:02:18",
+    "TemplateFolderPath": "Will be set at run time",
+    "IsDevTestEnvironmentsOnly": false,
+    "UsageCount": 2,
+    "ExecuteCount": 0,
+    "IsPromoted": true,
+    "TemplateVersion": "V1",
+    "TemplateOwner": "tester",
+    "IsFavourite": true,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "06/03/2020 01:02:18",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementIconPath": null,
+    "Description": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null
+  }
+}
