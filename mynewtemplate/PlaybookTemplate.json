@@ -1,0 +1,41 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "f7ea0c84-4ffa-4245-be3d-75158e7b3745",
+    "TemplateName": "mynewtemplate",
+    "Description": "sss",
+    "TemplateType": 2,
+    "TemplateAuthor": "marcos",
+    "ReleaseDateVersion": "11/05/2020 00:21:47",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/mynewtemplate",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1.0",
+    "TemplateOwner": "marcos",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "11/05/2020 00:21:47",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
+  },
+  "Element": {
+    "ElementId": "00000000-0000-0000-0000-000000000000",
+    "ElementType": 2,
+    "Name": null,
+    "ElementIconPath": null,
+    "Description": null,
+    "ElementPosition": null,
+    "AnsibleElement": {
+      "SuccessOnPartialFailure": false,
+      "EnableVerboseLogging": false,
+      "HostFailBehaviour": 0,
+      "RemoveSuccessfulHosts": false,
+      "TemplateId": null,
+      "Satellite": 0
+    },
+    "DiscoveryElement": null,
+    "DecisionElement": null,
+    "ScriptElement": null
+  }
+}
