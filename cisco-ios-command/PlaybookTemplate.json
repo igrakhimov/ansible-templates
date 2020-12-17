@@ -6,7 +6,7 @@
     "TemplateType": 2,
     "TemplateAuthor": "kidmun",
     "ReleaseDateVersion": "07/31/2020 00:32:46",
-    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/cisco-ios-command",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/cisco-ios-command/",
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 5,
     "ExecuteCount": 0,
@@ -14,10 +14,10 @@
     "TemplateVersion": "1",
     "TemplateOwner": "kidmun",
     "IsFavourite": false,
-    "TemplateModifiedBy": "kidmun",
-    "TemplateModifiedDate": "07/31/2020 00:32:46",
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "12/17/2020 00:00:46",
     "TemplateTypeColor": null,
-    "TemplateIconPath": null
+    "TemplateIconPath": "/images/custom-icons/Azure.svg"
   },
   "Element": {
     "ElementId": "00000000-0000-0000-0000-000000000000",
