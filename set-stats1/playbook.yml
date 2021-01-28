@@ -1,0 +1,20 @@
+- name: Our first play
+  hosts: ios
+  gather_facts: no
+  connection: network_cli
+
+
+  tasks:
+
+    - name: make data available to rest of flow
+      set_stats:
+        data:
+          mycounter: 1
+        aggregate: yes  
+    - name: make data available to rest of flow
+      set_stats:
+        data:
+          incident_number: "{{ inventory_hostname }} 001"
+          another_stat: "this is the same for all hosts"
+        per_host: yes
+   

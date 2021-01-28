@@ -1,0 +1,21 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "23ed9052-0778-4fc2-9c6b-0621f1ab70ed",
+    "TemplateName": "set stats1",
+    "Description": "zxc",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "01/28/2021 23:54:03",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/set-stats1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "zxcxz",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "01/28/2021 23:54:03",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
+  }
+}
