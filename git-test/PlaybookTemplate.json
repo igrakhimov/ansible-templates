@@ -1,0 +1,21 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "4a132688-6fbc-4ce1-9db2-54077a38b5f1",
+    "TemplateName": "GIT Test",
+    "Description": "this is a git test",
+    "TemplateType": 2,
+    "TemplateAuthor": "marcos",
+    "ReleaseDateVersion": "02/16/2021 03:09:39",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/git-test",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1.0",
+    "TemplateOwner": "marcos",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "marcos",
+    "TemplateModifiedDate": "02/16/2021 03:09:39",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
+  }
+}

