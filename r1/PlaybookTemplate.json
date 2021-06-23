@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "2403a842-9513-426e-9cae-c1197214ed81",
+    "TemplateName": "r1",
+    "Description": "sdf",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/23/2021 05:04:53",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/r1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "sdf",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/23/2021 05:04:53",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": "/images/custom-icons/change-02.svg",
+    "UseLocalZone": false,
+    "IsGlobal": true
+  }
+}
